@@ -1,0 +1,19 @@
+{
+    "tarea": [
+
+    ],
+    "cliente": [
+        {
+            "id": 1,
+            "Nombre":"Juan Garcia"
+        },
+        {
+            "id": 2,
+            "Nombre":"Pedro Suarez"
+        },
+        {
+            "id": 3,
+            "Nombre":"Oscar Zepeda"
+        }
+    ]
+}
